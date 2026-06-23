@@ -1,6 +1,12 @@
 # Hi, I'm Varun 👋
 
-🎓 B.Tech CSE (AI & Data Analytics)
+B.Tech CSE (AI & Data Analytics)
+
+Machine Learning • Full Stack Development • Data Analytics
+
+Building AI and web projects
+
+Open to internships and collaborations
 
 ## About Me
 - Machine Learning Enthusiast
