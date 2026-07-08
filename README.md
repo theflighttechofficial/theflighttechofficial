@@ -19,6 +19,9 @@ Open to internships and collaborations
 - Neoshaan website
 - RoadAi-building better roads for India
 
+## 📝 Latest Blog Post
+[How I Automated 3-4 Days of Manual Work at L&T Using Python](https://theflighttechlabs.hashnode.dev/how-i-automated-3-4-days-of-manual-work-at-l-t-using-python)
+
 ## Tech Stack
 - Python
 - C++
