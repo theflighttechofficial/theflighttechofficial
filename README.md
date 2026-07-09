@@ -20,7 +20,7 @@
 
 I'm a 3rd-year B.Tech student specialising in **AI & Data Analytics** at SRIHER Chennai.
 
-During my internship at **Larsen & Toubro Construction's Analytics Department**, I built two production tools that management confirmed as **first-of-their-kind within the division**:
+During my internship at **Larsen & Toubro Construction's Analytics Department**, I built two production tools.
 
 - 📄 A **PDF-to-Excel extraction pipeline** processing 1,200+ pages per run — reducing 3–4 days of manual engineering work to minutes, using FAISS, BM25, Reciprocal Rank Fusion, and PyMuPDF
 - 🔍 An **OCR-based SLD data extractor** for AutoCAD-exported electrical diagrams with zero embedded text, using Tesseract and custom rasterization pipelines
