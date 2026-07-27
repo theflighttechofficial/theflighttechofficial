@@ -20,6 +20,8 @@
 
 I'm a 3rd-year B.Tech student specialising in **AI & Data Analytics** at SRIHER Chennai.
 
+know more about me via my website @ https://lumisphere-nine.vercel.app/
+
 During my internship at **Larsen & Toubro Construction's Analytics Department**, I built two production tools.
 
 - 📄 A **PDF-to-Excel extraction pipeline** processing 1,200+ pages per run — reducing 3–4 days of manual engineering work to minutes, using FAISS, BM25, Reciprocal Rank Fusion, and PyMuPDF
