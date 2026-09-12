@@ -4,7 +4,7 @@
 
 **Data Analyst · ML Engineer · AI Builder**
 
-*Building production-grade data systems — currently @ Larsen & Toubro Construction*
+*Building production-grade data systems — formerly @ Larsen & Toubro Construction*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varun-vaibhav-s-11b69a2ba)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/theflighttechofficial)
