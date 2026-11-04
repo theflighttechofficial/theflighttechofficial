@@ -53,7 +53,7 @@ SaaS that combines a freelancer project workspace with a startup ecosystem. Abou
 
 ### Applied AI and computer vision
 
-**[Road-AI (VidMarg)](https://github.com/theflighttechofficial/RoadAi-Building-better-roads-for-India)**
+**[Road-AI](https://github.com/theflighttechofficial/RoadAi-Building-better-roads-for-India)**
 Full pipeline for road damage detection, from raw images, video, or drone footage to repair tickets with QR codes.
 - Ensemble of YOLOv8 models, including a fine-tuned road-damage model.
 - Temporal fusion across video frames to reduce false positives. Monte Carlo Dropout to flag low-confidence detections.
