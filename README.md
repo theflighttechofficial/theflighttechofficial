@@ -136,7 +136,6 @@ Company website from my internship: responsive UI, course catalog, dynamic cours
 
 **[TRUST-TAB / TableAbstain](https://github.com/theflighttechofficial/TRUST-TAB-AI-source-validity-checker)** · in preparation (IEEE format)
 Benchmark for whether LLMs abstain when a financial table cannot answer a question. Built from FinQA with five perturbation types, four confidence signals (verbalized confidence, P(True), self-consistency, evidence coverage), and ten evaluation metrics including selective accuracy, AURC, ECE, and Brier score. Runs through Ollama or API clients.
-Co-authored with Pradeep Kumar M.
 *Stack:* Python, Qwen2.5-7B-Instruct (pilot run)
 
 ### Other repositories
